@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CustomEvent:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CustomEvent_jar</output-path>
+    <root id="archive" name="CustomEvent.jar">
+      <element id="module-output" name="CustomEvent" />
+    </root>
+  </artifact>
+</component>
